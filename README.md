@@ -5,7 +5,7 @@ Algorithms
 
 ###Part 1: Union-Find and Dynamic Connectivity###
         
-*Project: Percolation* -- Demonstration of the application of the Weighted Quick Union in order to simulate a "percolation" and to obtain the percolation threshold for a particular N*N grid size.
+*Project: Percolation* -- Application of the Weighted Quick Union in order to simulate a "percolation" and to obtain the percolation threshold for a particular N*N grid size.
 
 ###Part 2: Stacks, Queues, and Elementary Sorts###
         
@@ -13,4 +13,12 @@ Algorithms
 
 ###Part 3: Mergesort and Quicksort###
 
-*Project: Collinear Points* -- Using more sophistacated and tuned sorting algorithms, develop a fast method for finding collinear points. A brute force method was also developed to contrast the runtimes between the efficient method.
+*Project: Collinear Points* -- Using more sophistacated and tuned sorting algorithms, develop a fast method for finding collinear points. A brute force method was also developed to contrast the runtimes between the efficient method and the naive solution.
+
+###Part 4: Priority Queues and A* Star Search###
+
+*Project: 8-Puzzle* -- Implement an A* search to find a solution to the 8-puzzle.
+
+###Part 5: Binary Search Trees###
+
+*Project: Kd tree* -- Using the concept of binary search trees, implement a two diminsional kd tree.
