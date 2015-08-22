@@ -21,4 +21,4 @@ Algorithms
 
 ###Part 5: Binary Search Trees###
 
-*Project: Kd tree* -- Using the concept of binary search trees, implement a two diminsional kd tree.
+*Project: Kd tree* -- Using the concept of binary search trees, implement a two dimensional kd tree.
