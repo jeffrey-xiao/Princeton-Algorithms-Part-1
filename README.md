@@ -1,7 +1,7 @@
-Algorithms
-==========
+Algorithms Part I
+=================
 
-## Princeton Algorithms Course: Programming Assignments:
+## Programming Assignments
 
 ### Part 1: Union-Find and Dynamic Connectivity
         
